@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrnssprudhviraj
 - 👀 I’m interested in software jobs
-- 🌱 I’m currently learning ECE
+- 🌱 I’m graduated ECE
 
 <!---
 jrnssprudhviraj/jrnssprudhviraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
