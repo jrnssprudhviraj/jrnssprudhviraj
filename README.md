@@ -62,7 +62,7 @@ I’m a motivated **Process Analyst and Data-driven problem solver** with hands-
 ## 📫 Connect With Me
 
 - 📧 Email: **prudhvirajchebolu@gmail.com**
-- 💼 LinkedIn: *(add your LinkedIn link here)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/prudhvirajchebolu/*
 - 🌐 GitHub: [jrnssprudhviraj](https://github.com/jrnssprudhviraj)
 
 ---
